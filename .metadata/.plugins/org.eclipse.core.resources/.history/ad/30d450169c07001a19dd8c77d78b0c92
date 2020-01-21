@@ -1,9 +1,0 @@
-package Colecciones;
-
-public class colecciones {
-
-	public static void main(String[] args) {
-		ArrayList<>
-	}
-
-}

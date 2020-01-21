@@ -4,10 +4,10 @@ import java.util.ArrayList;
 
 public class Casa {
 	private double precio;
-	private ArrayList<Habitacion>listaHabitacion;
+	private ArrayList<Habitacion> listaHabitacion;
 	private Persona propietario;
 	private Direccion direccion;
-	
+
 	public Casa(double precio, ArrayList<Habitacion> listaHabitacion, Persona propietario, Direccion direccion) {
 		super();
 		this.precio = precio;
@@ -57,7 +57,5 @@ public class Casa {
 		return "Casa [precio=" + precio + ", listaHabitacion=" + listaHabitacion + ", propietario=" + propietario
 				+ ", direccion=" + direccion + "]";
 	}
-	
-	
 
 }

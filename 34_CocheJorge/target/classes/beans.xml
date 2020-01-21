@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+
+		
+		
+
+<bean id="coche1" class="modelo.entidad.Coche">
+		<property name="matricula" value="1234 JJ"></property>
+		<property name="marca" value="Seat"></property>
+		<property name="modelo" value="Leon"></property>
+		<property name="segundaMano" value="true"></property>
+		<property name="precio" value="700"></property>
+		<property name="peso" value="1000"></property>
+</bean>
+<bean id="coche2" class="modelo.entidad.Coche">
+		<property name="matricula" value="1111 JJ"></property>
+		<property name="marca" value="Seat"></property>
+		<property name="modelo" value="Ibiza"></property>
+		<property name="segundaMano" value="true"></property>
+		<property name="precio" value="800"></property>
+		<property name="peso" value="1200"></property>
+</bean>
+<bean id="coche3" class="modelo.entidad.Coche">
+		<property name="matricula" value="2222 JJ"></property>
+		<property name="marca" value="Renault"></property>
+		<property name="modelo" value="Laguna"></property>
+		<property name="segundaMano" value="true"></property>
+		<property name="precio" value="1500"></property>
+		<property name="peso" value="3000"></property>
+</bean>
+<bean id="coche4" class="modelo.entidad.Coche">
+		<property name="matricula" value="3333 JJ"></property>
+		<property name="marca" value="Ford"></property>
+		<property name="modelo" value="Fiesta"></property>
+		<property name="segundaMano" value="true"></property>
+		<property name="precio" value="500"></property>
+		<property name="peso" value="850"></property>
+</bean>
+<bean id="coche5" class="modelo.entidad.Coche">
+		<property name="matricula" value="4444 JJ"></property>
+		<property name="marca" value="Ferrari"></property>
+		<property name="modelo" value="F50"></property>
+		<property name="segundaMano" value="true"></property>
+		<property name="precio" value="1000000"></property>
+		<property name="peso" value="3000"></property>
+</bean>
+
+
+</beans>

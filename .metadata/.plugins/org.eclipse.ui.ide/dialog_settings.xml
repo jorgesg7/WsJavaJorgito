@@ -7,15 +7,31 @@
 	</section>
 	<section name="ExternalProjectImportWizard">
 		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
-		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
-			<item value="C:\Users\aula2m\Documents\jorge curso\89_Herencia_Empleados"/>
-			<item value="C:\Users\aula2m\Documents\jorge curso\07_CosasVarias"/>
-			<item value="\\SUNAUL033\manana_PROG_SIST\trabajo_clase\PROFE_TOMASIN\workspaceJSE\03_HerenciaAnimales"/>
-			<item value="\\SUNAUL033\manana_PROG_SIST\trabajo_clase\99_Herencia_Empleados"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\44_JPADao"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\43_EjercicioClienteCapasJavaConfig"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\45_JPAData"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\42_SpringJavaConfig"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\41_EjercicioClienteCapasBBDDSpring"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\40_LibreriaBBDDSpring"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\39_EjercicioPeliculasAnotaciones"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\38_Anotaciones"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\37_Autowired"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\36_EjercicioPeliculasSpring"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\35_EjercicioCasaSpring"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\34_EjercicioVehiculos"/>
+			<item value="C:\Users\aula2m\Desktop\33_SpringCore"/>
+			<item value="C:\Users\aula2m\Desktop\Examen3JorgeSanz"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\33_SpringCore"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\31_VideojuegoPelea"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\30_Videojuego"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\27_EjercicioCalculadoraSockets"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\26_Sockets"/>
+			<item value="C:\Users\aula2m\Desktop\workspacefelixx (2)\WorkspaceCursoCore\25_EjercicioHilos"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
