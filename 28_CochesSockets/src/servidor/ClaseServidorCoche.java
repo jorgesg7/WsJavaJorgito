@@ -78,7 +78,7 @@ public class ClaseServidorCoche {
 				
 				
 				
-				PrintStream ps = new PrintStream(socket.getOutputStream());
+				ps = new PrintStream(socket.getOutputStream());
 				
 
 				System.out.println("Fin del servidor");

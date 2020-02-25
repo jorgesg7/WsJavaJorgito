@@ -5,14 +5,13 @@ import java.util.Scanner;
 
 import entidad.Empleado;
 
-import modelo.entidad.Libro;
-import modelo.negocio.GestorLibreria;
+
 
 public class MainEmpresa {
 
 	public static void main(String[] args) {
 
-	}
+	
 	//Primera parte
 	//creacion de los objetos necesarios para el programa
 	//y la inyeccion de sus dependencias

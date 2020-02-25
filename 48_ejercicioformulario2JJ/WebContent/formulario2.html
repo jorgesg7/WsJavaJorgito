@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+<style type="text/css">
+h2{
+	text-align: center;
+	color: red;
+}
+</style>
+
+</head>
+<body background="videojuegos4.jpg">
+	<!-- Se llama css in line -->
+	<h1 style="text-align: center;color:blue;font-family: bookman old style">Tienda oficial de consolas GAME </h1>
+	<h2>La tienda oficial mas conocida en españa con megadescuentos que no te podras perder!!! </h2>
+	<p>tenemos descuentos de todo tipo 70,50, y 20% en todas las consolas y videojuegos busca tu juego aqui!!</p>
+	
+	<form action="tabla.html">
+		Titulo: <input type="text" name="titulo" value="videojuego" required="required"/>
+		<br/>
+		Año: <input type="number" name="year" placeholder="2005"/>
+		<br/>
+		Nombre: <input type="text" name="nombre"/>
+		<br/>
+		Genero: 
+		<!-- 
+			Radio es un tipo de estructura en la cual el cliente
+			SOLO puede elegir un valor
+			Recordar que el name sera el nombre del parametro
+			con el que se va a enviar(clave), y el value será el valor
+			del parametro que se va a enviar(valor)
+		 -->
+		 <br/>
+		 <h3>Elija el genero</h3>
+		<input type="radio" name="genero" value="estrategias">videojuego de estrategias
+		<br/><input type="radio" name="genero" value="rol">videojuego de rol
+		<br/><input type="radio" name="genero" value="deportes">videojuego de deportes
+		<br/><input type="radio" name="genero" value="aventuras">videojuego de aventuras
+		<br/>
+		<h3>Elija puntuacion</h3>
+		<!-- El desplegable funciona de manera parecida a los radio -->
+		<select name="puntuacion">
+			<option value="1">Puntuacion 1</option>
+			<option value="2">Puntuacion 2</option>
+			<option value="3">Puntuacion 3</option>
+			<option value="4">Puntuacion 4</option>
+			<option value="5">Puntuacion 5</option>
+		</select>
+		<h3>Etiquetas (tags)</h3>
+		<br/><input type="checkbox" name="tags" value="violenta">contiene escenas de violencia
+		<br/><input type="checkbox" name="tags" value="sexo">contiene escenas sexuales
+		<br/><input type="checkbox" name="tags" value="subtitulos">Se pueden elegir subtitulos
+		<br/><input type="checkbox" name="tags" value="3d">Se puede ver en 3D
+		
+		<h3>Comentarios adicionales</h3>
+		<textarea rows="10" cols="50" name="comentarios"></textarea>
+		<br/>
+		<input type="submit" value="Enviar">
+	</form>
+	
+	
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+</body>
+</html>

@@ -4,5 +4,11 @@
 <item elementID="=01 introduccion orientacion de objetos/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1571136339512_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1581585585562_3" label="64_SpringBoot" name="64_SpringBoot">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/64_SpringBoot" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1581594557868_4" label="65_SpringBootMVC" name="65_SpringBootMVC">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/66_SpringBootMVC" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1571136365987_2" label="Window Working Set" name="Aggregate for window 1571136365987"/>
 </workingSetManager>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<bean id="avion1" class="modelo.entidad.Avion">
+		<property name="id" value="1"></property>
+		<property name="marca" value="Albus"></property>
+		<property name="asiento" ref="listaAsientos"></property>
+		<property name="motor" ref="listaMotores"></property>
+		<property name="ruedas" ref="ListaRuedas"></property>
+		<property name="kilimetros" value="1111"></property>
+	</bean>
+	<bean id="avion2" class="modelo.entidad.Avion">
+		<property name="id" value="2"></property>
+		<property name="marca" value="Pajaro"></property>
+		<property name="asiento" ref="ListaAsientos"></property>
+		<property name="motor" ref="ListaMotores"></property>
+		<property name="ruedas" ref="ListaRuedas"></property>
+		<property name="kilimetros" value="1234"></property>
+	</bean>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</beans>
